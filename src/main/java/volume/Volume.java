@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 public class Volume {
 
-    private static final BigDecimal TICKET_PRICE = BigDecimal.valueOf(30.0);
+    private static final BigDecimal TICKET_PRICE =  BigDecimal.valueOf(30.0);
     private final List<Venue> venues = new ArrayList<>();
     private final List<PartyGoer> partyGoers = new ArrayList<>();
     private BigDecimal total = BigDecimal.ZERO;
