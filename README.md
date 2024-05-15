@@ -8,6 +8,8 @@ The raw data was provided in `.csv` files from scanners at each venue. The calcu
 
 ## The Original Solution (PHP)
 
+[The PHP script](index.php)
+
 A "quick and dirty" PHP script was written to address the immediate need. However, it suffered from:
 
 * **Cryptic Logic:** The algorithm was complex and difficult to understand or modify.
