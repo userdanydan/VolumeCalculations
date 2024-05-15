@@ -13,7 +13,7 @@ A "quick and dirty" PHP script was written to address the immediate need. Howeve
 * **Cryptic Logic:** The algorithm was complex and difficult to understand or modify.
 * **Maintainability Issues:** The lack of structure made future updates a potential nightmare.
 
-(Example code snippets included here to showcase the PHP's lack of clarity)
+Example code snippets included here to showcase the PHP's lack of clarity in index.php
 
 ## Embracing Object-Oriented Programming (Java)
 
