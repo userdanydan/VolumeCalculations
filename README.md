@@ -34,7 +34,7 @@ To create a more robust and maintainable solution, the project was reimagined us
 
 ## Project Status
 
-The Java implementation is complete and functional. The project is hosted here: [Link to your GitHub repository]
+The Java implementation is complete and functional.
 
 ## Key Takeaways
 
